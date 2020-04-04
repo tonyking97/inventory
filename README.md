@@ -1,1 +1,1 @@
-Inventory to manage all stocks.
+Smart Inventory to manage all stocks.
